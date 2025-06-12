@@ -1,0 +1,11 @@
+v {xschem version=3.4.8RC file_version=1.2}
+G {}
+K {}
+V {}
+S {}
+E {}
+C {vcvs.sym} 0 0 0 0 {name=E1 value=3}
+C {iopin.sym} 60 -60 0 0 {name=p1 lab=xxx}
+C {iopin.sym} -100 -20 2 0 {name=p2 lab=xxx}
+C {iopin.sym} -100 20 2 0 {name=p3 lab=xxx}
+C {iopin.sym} 60 40 0 0 {name=p4 lab=xxx}
